@@ -18,4 +18,6 @@ public class JenkinsSpringExampleApplication {
     public String get() {
         return "Hello Mac";
     }
+
+    //test
 }
